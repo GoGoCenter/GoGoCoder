@@ -20,7 +20,7 @@
 注：本仓库从全网收录面试题目，题源可靠，为保证数据真实可信，仓库source文件夹中以周为单位列出所有涉及的原文链接。（现阶段题源，主要来自牛客网讨论区）
 <br/>
 
-关注公众号，GoGoCoder , 获取及时跟进高频面试考点信息推送！
+关注公众号，GoGoCoder , 第一时间跟进高频面试考点信息推送！
 
 <div  align="left">    
 <img src="https://user-images.githubusercontent.com/35292389/139666967-00040b65-b269-4404-87a9-4baf1bf970a4.jpg" width = "320" height = "420" alt="GoGoCoder公众号" align=center />
