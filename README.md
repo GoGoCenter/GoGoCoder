@@ -23,7 +23,7 @@
 关注公众号，GoGoCoder , 第一时间跟进高频面试考点信息推送！
 
 <div  align="left">    
-<img src="https://user-images.githubusercontent.com/35292389/139666967-00040b65-b269-4404-87a9-4baf1bf970a4.jpg" width = "320" height = "420" alt="GoGoCoder公众号" align=center />
+<img src="https://user-images.githubusercontent.com/35292389/139861774-5d339bd5-8f7f-4ce8-b4c6-1ec6190dde1f.jpg" width = "300" height = "300" alt="GoGoCoder公众号" align=center />
 </div>
 <br/>
 
